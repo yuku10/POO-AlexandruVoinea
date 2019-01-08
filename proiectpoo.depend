@@ -1,0 +1,230 @@
+# depslib dependency file v1.0
+1543324668 source:c:\users\fmisecretariat6\desktop\new folder\proiectpoo\main.cpp
+	<iostream>
+	"person.h"
+	"Role.h"
+	<vector>
+	"StudentRole.h"
+
+1543325307 source:c:\users\fmisecretariat6\desktop\new folder\proiectpoo\person.cpp
+	"person.h"
+
+1543324737 c:\users\fmisecretariat6\desktop\new folder\proiectpoo\person.h
+	<string>
+	"Role.h"
+	<vector>
+
+1543323433 source:c:\users\fmisecretariat6\desktop\new folder\proiectpoo\role.cpp
+	"Role.h"
+
+1543325227 source:c:\users\fmisecretariat6\desktop\new folder\proiectpoo\studentrole.cpp
+	"StudentRole.h"
+
+1543324266 source:c:\users\fmisecretariat6\desktop\new folder\proiectpoo\teacherrole.cpp
+	"TeacherRole.h"
+
+1543325102 c:\users\fmisecretariat6\desktop\new folder\proiectpoo\role.h
+
+1543324461 c:\users\fmisecretariat6\desktop\new folder\proiectpoo\teacherrole.h
+	"Role.h"
+
+1543325206 c:\users\fmisecretariat6\desktop\new folder\proiectpoo\studentrole.h
+	"Role.h"
+
+1546906215 source:c:\users\alexandru voinea\desktop\pro\proiectpoo\main.cpp
+	<iostream>
+	"person.h"
+	"Role.h"
+	<vector>
+	"StudentRole.h"
+	"PersonRep.h"
+	"Room.h"
+	"RoomRep.h"
+	"Activity.h"
+	"ActivityRep.h"
+	"ActivityRole.h"
+
+1543919379 c:\users\alexandru voinea\desktop\pro\proiectpoo\person.h
+	<string>
+	"Role.h"
+	<vector>
+
+1543919716 c:\users\alexandru voinea\desktop\pro\proiectpoo\role.h
+
+1543919379 c:\users\alexandru voinea\desktop\pro\proiectpoo\studentrole.h
+	"Role.h"
+
+1543919379 source:c:\users\alexandru voinea\desktop\pro\proiectpoo\person.cpp
+	"person.h"
+
+1543919379 source:c:\users\alexandru voinea\desktop\pro\proiectpoo\role.cpp
+	"Role.h"
+
+1543919379 source:c:\users\alexandru voinea\desktop\pro\proiectpoo\studentrole.cpp
+	"StudentRole.h"
+
+1543919379 source:c:\users\alexandru voinea\desktop\pro\proiectpoo\teacherrole.cpp
+	"TeacherRole.h"
+
+1543919379 c:\users\alexandru voinea\desktop\pro\proiectpoo\teacherrole.h
+	"Role.h"
+
+1543919716 source:c:\users\alexandru voinea\desktop\pro\proiectpoo\activityrole.cpp
+	"ActivityRole.h"
+
+1543919716 c:\users\alexandru voinea\desktop\pro\proiectpoo\activityrole.h
+	"Role.h"
+
+1543919716 source:c:\users\alexandru voinea\desktop\pro\proiectpoo\adminrole.cpp
+	"AdminRole.h"
+
+1543919716 c:\users\alexandru voinea\desktop\pro\proiectpoo\adminrole.h
+	"Role.h"
+
+1544019818 source:c:\users\alexandru voinea\desktop\pro\proiectpoo\personrep.cpp
+	"PersonRep.h"
+
+1546910017 source:c:\users\alexandru voinea\desktop\pro\proiectpoo\room.cpp
+	"Room.h"
+
+1546910912 c:\users\alexandru voinea\desktop\pro\proiectpoo\room.h
+	<string>
+
+1544019415 c:\users\alexandru voinea\desktop\pro\proiectpoo\personrep.h
+	"person.h"
+	<vector>
+
+1544020883 source:c:\users\alexandru voinea\desktop\pro\proiectpoo\roomrep.cpp
+	"RoomRep.h"
+
+1544020845 c:\users\alexandru voinea\desktop\pro\proiectpoo\roomrep.h
+	<vector>
+	"Room.h"
+
+1546910804 source:c:\users\alexandru voinea\desktop\pro\proiectpoo\activity.cpp
+	"Activity.h"
+
+1546911093 c:\users\alexandru voinea\desktop\pro\proiectpoo\activity.h
+	<string>
+	"Room.h"
+	"person.h"
+	"iostream"
+
+1544372299 source:c:\users\alexandru voinea\desktop\pro\proiectpoo\activityrep.cpp
+	"ActivityRep.h"
+
+1546911963 c:\users\alexandru voinea\desktop\pro\proiectpoo\activityrep.h
+	"Activity.h"
+
+1546905943 c:\users\alexandru voinea\desktop\pro\proiectpoo\activity.cpp
+	"Activity.h"
+
+1544372299 c:\users\alexandru voinea\desktop\pro\proiectpoo\activityrep.cpp
+	"ActivityRep.h"
+
+1543919716 c:\users\alexandru voinea\desktop\pro\proiectpoo\activityrole.cpp
+	"ActivityRole.h"
+
+1543919716 c:\users\alexandru voinea\desktop\pro\proiectpoo\adminrole.cpp
+	"AdminRole.h"
+
+1543919379 c:\users\alexandru voinea\desktop\pro\proiectpoo\person.cpp
+	"person.h"
+
+1544019818 c:\users\alexandru voinea\desktop\pro\proiectpoo\personrep.cpp
+	"PersonRep.h"
+
+1543919379 c:\users\alexandru voinea\desktop\pro\proiectpoo\role.cpp
+	"Role.h"
+
+1544020883 c:\users\alexandru voinea\desktop\pro\proiectpoo\roomrep.cpp
+	"RoomRep.h"
+
+1543919379 c:\users\alexandru voinea\desktop\pro\proiectpoo\studentrole.cpp
+	"StudentRole.h"
+
+1543919379 c:\users\alexandru voinea\desktop\pro\proiectpoo\teacherrole.cpp
+	"TeacherRole.h"
+
+1546910804 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\activity.cpp
+	"Activity.h"
+
+1546911093 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\activity.h
+	<string>
+	"Room.h"
+	"person.h"
+	"iostream"
+
+1546910912 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\room.h
+	<string>
+
+1543919379 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\person.h
+	<string>
+	"Role.h"
+	<vector>
+
+1543919716 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\role.h
+
+1543919716 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\activityrole.cpp
+	"ActivityRole.h"
+
+1543919716 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\activityrole.h
+	"Role.h"
+
+1543919716 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\adminrole.cpp
+	"AdminRole.h"
+
+1543919716 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\adminrole.h
+	"Role.h"
+
+1546906215 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\main.cpp
+	<iostream>
+	"person.h"
+	"Role.h"
+	<vector>
+	"StudentRole.h"
+	"PersonRep.h"
+	"Room.h"
+	"RoomRep.h"
+	"Activity.h"
+	"ActivityRep.h"
+	"ActivityRole.h"
+
+1543919379 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\studentrole.h
+	"Role.h"
+
+1544019415 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\personrep.h
+	"person.h"
+	<vector>
+
+1544020845 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\roomrep.h
+	<vector>
+	"Room.h"
+
+1546911963 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\activityrep.h
+	"Activity.h"
+
+1543919379 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\person.cpp
+	"person.h"
+
+1544019818 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\personrep.cpp
+	"PersonRep.h"
+
+1543919379 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\role.cpp
+	"Role.h"
+
+1546910017 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\room.cpp
+	"Room.h"
+
+1544020883 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\roomrep.cpp
+	"RoomRep.h"
+
+1543919379 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\studentrole.cpp
+	"StudentRole.h"
+
+1543919379 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\teacherrole.cpp
+	"TeacherRole.h"
+
+1543919379 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\teacherrole.h
+	"Role.h"
+

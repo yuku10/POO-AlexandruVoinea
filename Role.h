@@ -7,6 +7,7 @@ public:
     STUDENT_ROLE,
     TEACHER_ROLE,
     ADMIN_ROLE,
+    GUEST_ROLE,
     ACTIVITY_ROLE};
     Role(RoleType);
 protected:

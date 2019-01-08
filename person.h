@@ -9,8 +9,10 @@ protected:
     std::string nFirstName;
     std::string nLastName;
     std::string nEmail;
+    std::vector<Role*>nRoles;
 public:
-    person(std::string CNP="",std::string FirstName="",std::string LastName="",std::string Email="");
+    person(){};
+    person(std::vector<Role*> Roles,std::string CNP="",std::string FirstName="",std::string LastName="",std::string Email="");
     std::string get_cnp();
     std::string get_fn();
     std::string get_ln();
@@ -21,7 +23,6 @@ public:
     void set_email(std::string Email);
 friend std::istream& operator>>(std::istream& stream,person& a);
 friend std::ostream& operator<<(std::ostream& stream,const person& a);
-std::vector<Role*>nRoles;
 void AddRole(Role* role);
 };
 

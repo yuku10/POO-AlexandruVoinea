@@ -31,7 +31,7 @@ void person::set_email(std::string Email)
 {
     nEmail=Email;
 }
-person::person(std::string CNP,std::string FirstName,std::string LastName,std::string Email):nCNP(CNP),nFirstName(FirstName),nLastName(LastName),nEmail(Email){}
+person::person(std::vector<Role*> Roles,std::string CNP,std::string FirstName,std::string LastName,std::string Email):nRoles(Roles),nCNP(CNP),nFirstName(FirstName),nLastName(LastName),nEmail(Email){}
 
 
 std::istream& operator>>(std::istream& stream,person& a)

@@ -2,13 +2,11 @@
 #define ROOMREP_H_INCLUDED
 #include <vector>
 #include "Room.h"
-class RoomRep{
-private:
-    std::vector<Room*>r;
+#include "Rep.h"
+class RoomRep:public Rep<Room>
+{
 public:
     Room*findByName(std::string Name);
-    void add(Room* room);
-    void remove(std::string Name);
 };
 
 

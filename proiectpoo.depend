@@ -158,12 +158,12 @@
 1546910912 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\room.h
 	<string>
 
-1543919379 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\person.h
+1546920055 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\person.h
 	<string>
 	"Role.h"
 	<vector>
 
-1543919716 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\role.h
+1546915037 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\role.h
 
 1543919716 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\activityrole.cpp
 	"ActivityRole.h"
@@ -177,7 +177,7 @@
 1543919716 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\adminrole.h
 	"Role.h"
 
-1546906215 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\main.cpp
+1546919642 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\main.cpp
 	<iostream>
 	"person.h"
 	"Role.h"
@@ -189,25 +189,36 @@
 	"Activity.h"
 	"ActivityRep.h"
 	"ActivityRole.h"
+	"Discipline.h"
+	"DisciplineRep.h"
+	"Rep.h"
+	"AdminRole.h"
+	"Group.h"
+	"GuestRole.h"
+	"TeacherRole.h"
 
-1543919379 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\studentrole.h
+1546916486 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\studentrole.h
 	"Role.h"
+	"Group.h"
 
-1544019415 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\personrep.h
+1546914830 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\personrep.h
 	"person.h"
+	"Rep.h"
 	<vector>
 
-1544020845 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\roomrep.h
+1546915287 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\roomrep.h
 	<vector>
 	"Room.h"
+	"Rep.h"
 
-1546911963 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\activityrep.h
+1546914251 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\activityrep.h
 	"Activity.h"
+	"Rep.h"
 
-1543919379 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\person.cpp
+1546919998 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\person.cpp
 	"person.h"
 
-1544019818 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\personrep.cpp
+1546914914 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\personrep.cpp
 	"PersonRep.h"
 
 1543919379 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\role.cpp
@@ -216,15 +227,58 @@
 1546910017 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\room.cpp
 	"Room.h"
 
-1544020883 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\roomrep.cpp
+1546915304 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\roomrep.cpp
 	"RoomRep.h"
 
-1543919379 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\studentrole.cpp
+1546916521 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\studentrole.cpp
 	"StudentRole.h"
 
 1543919379 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\teacherrole.cpp
 	"TeacherRole.h"
 
-1543919379 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\teacherrole.h
+1546918964 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\teacherrole.h
 	"Role.h"
+
+1546912667 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\activityrep.cpp
+	"ActivityRep.h"
+	"template.h"
+
+1546864402 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\template.h
+
+1546914158 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\rep.h
+	<vector>
+
+1546914240 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\rep.cpp
+	<iostream>
+	"Rep.h"
+
+1546916486 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\group.h
+	"Discipline.h"
+	<vector>
+	<string>
+
+1546917286 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\discipline.h
+	"Activity.h"
+	<vector>
+	<string>
+
+1546917286 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\discipline.cpp
+	"Discipline.h"
+
+1546917360 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\group.cpp
+	"Group.h"
+
+1546917485 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\guestrole.cpp
+	"GuestRole.h"
+
+1546917490 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\guestrole.h
+	"Role.h"
+
+1546917972 source:c:\users\alexandru voinea\desktop\poo-alexandruvoinea\disciplinerep.cpp
+	"DisciplineRep.h"
+
+1546919756 c:\users\alexandru voinea\desktop\poo-alexandruvoinea\disciplinerep.h
+	"Discipline.h"
+	"Rep.h"
+	<vector>
 
